@@ -15,5 +15,5 @@ https://www.mixamo.com
 My special thanks go to M-Studio  
 https://m-studio-m.github.io  
   
-Unity m_EditorVersion:  2021.1.12f1  
+Unity m_EditorVersion:  2021.2.0f1  
   
